@@ -1,3 +1,3 @@
 # Catan
- A simple Settlers of Catan remake in Untiy.
-![](/media/catan2.png)
+ A simple Settlers of Catan remake in Unity.
+![](https://github.com/oshears/Settlers-of-Catan/blob/main/media/catan2.PNG?raw=true)
